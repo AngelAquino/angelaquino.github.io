@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Angel's homepage"
 title_separator          : "|"
-name                     : &name "Angel Aquino"
+name                     : &name "Angelina Aquino"
 description              : &description "teaching associate and graduate student @ UP-EEEI"
 url                      : https://angelaquino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Angel Aquino"
+  name             : "Angelina Aquino"
   avatar           : "profile.png"
   bio              : "teaching associate and graduate student @ UP-EEEI"
   location         : "Quezon City, Philippines"

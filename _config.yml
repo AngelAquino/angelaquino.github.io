@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Angel's homepage"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Angelina Aquino"
 description              : &description "teaching associate and graduate student @ UP-EEEI"
 url                      : https://angelaquino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

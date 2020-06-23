@@ -39,9 +39,9 @@ Awards and Scholarships
 Research Advising
 ======
 * 2019--2020
-  * Moses Visperas: Tagalog Pangasinan Statistical Machine Translator (undergraduate project)
-  * Maria Jeanela Avila and Edel John Lopez: Comparative Analysis of MFCC, LFCC, LPCC, and their Fusions as Acoustic Features for Speaker Diarization (undergraduate project)
-  * John Joseph Gopez, Marybel Grace Layug, Tristan Miguel Montañez, and Anthony John Noroña: Speech Denoising in Deep Audio Visual Speech Recognition Systems for Noise-Robust Speech Recognition (undergraduate project)
+  * Moses Visperas: <i>Tagalog Pangasinan Statistical Machine Translator</i> (undergraduate project)
+  * Maria Jeanela Avila and Edel John Lopez: <i>Comparative Analysis of MFCC, LFCC, LPCC, and their Fusions as Acoustic Features for Speaker Diarization</i> (undergraduate project)
+  * John Joseph Gopez, Marybel Grace Layug, Tristan Miguel Montañez, and Anthony John Noroña: <i>Speech Denoising in Deep Audio Visual Speech Recognition Systems for Noise-Robust Speech Recognition</i> (undergraduate project)
 
 Skills and Interests
 ======

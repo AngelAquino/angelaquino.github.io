@@ -18,11 +18,9 @@ Education
 
 Work experience
 ======
-* since 2019: Teaching associate
-  * UP Electrical and Electronics Engineering Institute
+* since 2019: Teaching associate, UP Electrical and Electronics Engineering Institute
 
-* 2016--2019: Student assistant
-  * UP Electrical and Electronics Engineering Institute
+* 2016--2019: Student assistant, UP Electrical and Electronics Engineering Institute
   * Assisted in facilitating EEE 111 and EEE 121 undergraduate classes
   * Assisted in establishing and maintaining the UP Amateur Radio and Satellite Station
 
@@ -34,9 +32,9 @@ Publications
 
 Awards and Scholarships
 ======
-* 2019: Samsung Research Excellence Award, Samsung R&D Institute Philippines
-* 2015: DOST-SEI Merit Scholarship, Department of Science and Technology
-* 2014: Oblation Scholarship, University of the Philippines
+* 2019: Samsung Research Excellence Award (Samsung R&D Institute Philippines)
+* 2015: DOST-SEI Merit Scholarship (Department of Science and Technology)
+* 2014: Oblation Scholarship (University of the Philippines)
 
 Research Advising
 ======

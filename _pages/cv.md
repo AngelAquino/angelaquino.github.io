@@ -9,51 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+PDF available [here](/files/aaaquino_CV_2020-05-14.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Electrical Engineering (ongoing), University of the Philippines
+* B.S. Electronics and Communications Engineering, <i>cum laude</i>, University of the Philippines
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 2019: Teaching associate
+  * UP Electrical and Electronics Engineering Institute
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016--2019: Student assistant
+  * UP Electrical and Electronics Engineering Institute
+  * Assisted in facilitating EEE 111 and EEE 121 undergraduate classes
+  * Assisted in establishing and maintaining the UP Amateur Radio and Satellite Station
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards and Scholarships
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2019: Samsung Research Excellence Award, Samsung R&D Institute Philippines
+* 2015: DOST-SEI Merit Scholarship, Department of Science and Technology
+* 2014: Oblation Scholarship, University of the Philippines
+
+Research Advising
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 2019--2020
+  * Moses Visperas: Tagalog Pangasinan Statistical Machine Translator (undergraduate project)
+  * Maria Jeanela Avila and Edel John Lopez: Comparative Analysis of MFCC, LFCC, LPCC, and their Fusions as Acoustic Features for Speaker Diarization (undergraduate project)
+  * John Joseph Gopez, Marybel Grace Layug, Tristan Miguel Montañez, and Anthony John Noroña: Speech Denoising in Deep Audio Visual Speech Recognition Systems for Noise-Robust Speech Recognition (undergraduate project)
+
+Skills and Interests
 ======
-* Currently signed in to 43 different slack teams
+* fluent in Tagalog (mother tongue) and English (CEFR C2 proficiency)
+* basic understanding of Bikolano, Japanese, and French
+* experienced in Python, MATLAB, C++, C, C#, Java, and LaTeX
+* interested in	natural language processing for Philippine and low-resource languages, community-driven and open-access technologies

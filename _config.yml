@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angel's homepage"
+title                    : "Hi, I'm Angel."
 title_separator          : "-"
 name                     : &name "Angelina Aquino"
-description              : &description "teaching associate and graduate student @ UP-EEEI"
+description              : &description "PhD student @ CDU | language technology for disaster risk management"
 url                      : https://angelaquino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AngelAquino/angelaquino.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angelina Aquino"
   avatar           : "angel-paris-1x1.jpg"
-  bio              : "teaching associate and graduate student @ UP-EEEI"
+  bio              : "PhD student @ CDU | language technology for disaster risk management"
   location         : "Quezon City, Philippines"
   employer         :
   pubmed           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "angelaquino_ph"
   vine             :
   weibo            :
   xing             :

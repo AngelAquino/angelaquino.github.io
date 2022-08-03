@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF available [here](/files/aaaquino_CV_2020-05-14.pdf).
+PDF available [here](/files/aaaquino_CV_2022-08-03.pdf).
 
 Education
 ======
@@ -21,8 +21,8 @@ Education
 Work experience
 ======
 * 2019--2022: Faculty member, UP Electrical and Electronics Engineering Institute
-  * Positions held: Teaching Associate (i.e. master's student with teaching load) | Senior Lecturer (i.e. part-time teaching staff)
-  * Subjects taught: EEE 111 (Introduction to Programming and Computation) | EEE 121 (Data Structures and Algorithms) | EEE 147 (Digital Signal Processing) | CoE 197 C (Introduction to Audio and Speech Signal Processing)
+  * Positions held: Teaching Associate, Senior Lecturer
+  * Subjects taught: EEE 111 (Introduction to Programming and Computation), EEE 121 (Data Structures and Algorithms), EEE 147 (Digital Signal Processing), CoE 197 C (Introduction to Audio and Speech Signal Processing)
 
 
 Publications
@@ -33,7 +33,7 @@ Publications
 
 Awards and Scholarships
 ======
-* 2022: DOST-SEI Foreign Graduate Scholarship in Priority S&T Fields (Department of Science and Technology, Philippines)
+* 2022: DOST-SEI Foreign Graduate Scholarship in Priority Fields in Science and Technology (Department of Science and Technology, Philippines)
 * 2019: Samsung Research Excellence Award (Samsung R&D Institute Philippines)
 * 2015: DOST-SEI Merit Scholarship (Department of Science and Technology, Philippines)
 * 2014: Oblation Scholarship (University of the Philippines)
@@ -56,5 +56,5 @@ Skills and Interests
 ======
 * fluent in Tagalog (mother tongue) and English (CEFR C2 proficiency)
 * basic understanding of Bikolano, Japanese, and French
-* experienced in Python, MATLAB, C++, C, C#, Java, and LaTeX
+* experienced in Python, MATLAB, C++, C, C# for Unity, Java, and LaTeX
 * interested in	natural language processing for Philippine and Indigenous languages, community-driven and open-access technologies

@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Charles Darwin University working on co-design of language technologies to support disaster communication in Indigenous communities. Prior to this, I was a faculty member at the University of the Philippines, where I taught undergraduate courses and co-advised student research projects at the UP Electrical and Electronics Engineering Institute.
+I'm a PhD student at Charles Darwin University working on co-design of language technologies to support disaster communication in Indigenous communities.
+
+Prior to this, I was a faculty member at the University of the Philippines, where I taught undergraduate courses and co-advised student research projects at the UP Electrical and Electronics Engineering Institute.
 
 Research interests
 ------

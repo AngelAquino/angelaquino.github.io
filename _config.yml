@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi, I'm Angel."
+title                    : "Angelina Aquino"
 title_separator          : "-"
 name                     : &name "Angelina Aquino"
-description              : &description "PhD student @ CDU | language technology for disaster risk management"
+description              : &description "PhD student @ CDU | language technology for disaster communication"
 url                      : https://angelaquino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AngelAquino/angelaquino.github.io"

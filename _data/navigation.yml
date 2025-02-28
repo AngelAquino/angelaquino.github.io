@@ -17,7 +17,7 @@ main:
 #     url: /portfolio/
         
   - title: "Musings"
-    url: /year-archive/
+    url: /musings/
     
 #   - title: "Guide"
 #     url: /markdown/

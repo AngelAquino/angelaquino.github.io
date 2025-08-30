@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angelina Aquino"
   avatar           : "angel-paris-1x1.jpg"
-  bio              : "PhD student @ CDU | language technology for disaster communication"
+  bio              : "PhD student @ CDU | language technologies for disaster communication"
   location         : "Darwin, Australia"
   employer         :
   pubmed           :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/aaaquinoone/"
   foursquare       :
   github           : "AngelAquino"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "angelaquino_ph"
+  twitter          :
   vine             :
   weibo            :
   xing             :

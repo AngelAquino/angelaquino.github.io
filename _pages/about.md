@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! This is Angel's homepage.
+Hello! My name is Angel.
 
 I'm a PhD student at Charles Darwin University doing research at the intersection of disaster communication, intercultural translation, and language technologies.
 

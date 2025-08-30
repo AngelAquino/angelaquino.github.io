@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! This is Angel's homepage.
 
 I'm a PhD student at Charles Darwin University doing research at the intersection of disaster communication, intercultural translation, and language technologies.
 
@@ -16,8 +17,8 @@ Research interests
 ------
 - interdisciplinary studies
 - Indigenous knowledge practices
-- human-centered design
-- speech/NLP for local languages
+- humanitarian and more-than-human design
+- speech/NLP technologies for local languages
 
 Other interests
 ------

@@ -11,14 +11,14 @@ Hello! My name is Angel.
 
 I'm a PhD student at Charles Darwin University doing research at the intersection of disaster communication, intercultural translation, and language technologies.
 
-Prior to this, I was a faculty member at the University of the Philippines, where I taught undergraduate courses and co-advised student research projects at the UP Electrical and Electronics Engineering Institute.
+Prior to this, I was a lecturer at the University of the Philippines, where I taught undergraduate courses and co-advised student research projects at the UP Electrical and Electronics Engineering Institute.
 
 Research interests
 ------
-- interdisciplinary studies
+- computational linguistics and digital humanities
+- digital audio and speech signal processing
 - Indigenous knowledge practices
-- humanitarian and more-than-human design
-- speech/NLP technologies for local languages
+- interdisciplinary studies
 
 Other interests
 ------
